@@ -1,0 +1,96 @@
+Mean Stack
+    >> M: MongoDB (DataBase)
+    >> E: ExpressJs (BAckend)
+    >> A: AngularJs (Frontend)
+    >> N: NodeJs (Backend)
+
+Three Pillars
+    >> Html (Hyper Text MarkUp Language)
+    >> Css (Cascading Style Sheet)
+    >> Js (Java Script) Brain Or Heart Of Application
+
+Other Stacks
+    >> Mean,Mern, Java Full Stack 
+
+Web dev
+    >> Building/Developer Team
+    >> Testing Team (Manual Tester/Automated Testers)
+    >> Hosting Team (Devops Team)
+    >> MAintanance Team/Support Team
+
+SDLC (Software Development Life Cycle):
+    >> WaterFall Model
+    >> Agile Model
+    >> Spiral Model
+    >> Iterative Model
+    >> Incremental Model
+    >> V Shaped Model
+    >> RAD (Rapid Action Development) Model
+
+URL (Uniform Resouce Locator)
+    https://www.facebook.com/
+    https://www.linkedin.com/
+
+
+
+    https: Protocol
+    linkedin: Server/Domain Name
+    .com: TLD (Top Level Domain) 
+
+
+
+Protocol: 
+    >> Set Of rules/instructions
+        http  : Hyper Text Transfer Protocol
+        https : Hyper Text Transper Protocol Secured
+        tcp   : Transmission Control Protocol
+        udp   : User Datagram Protocol
+        smtp  : Simple mail Transfer Protoco
+        ftp   : File Transfer Protocol
+        ip    : Internet Protocol (ipv4 & ipv6)
+                >>  Client/Web Page -----------(uName & uPwd)--------->
+                >> SSL (Secure Socket Layer) Certtification
+
+Server/Doamin Name:
+    >> Unique Indentifier
+    >> Eg: Oracle
+
+Sub - Domain Name:
+        >> gMeet
+        >> gMaps
+        >> gDrive
+        >> Gmail
+        >> gPhotos
+        >> gFiles
+        >> gChrome
+        >> gCalendar
+        >> gPay
+        
+        >> WWW (World Wide Web)
+
+
+        >> Amazon Shopping
+        >> AWS
+
+
+
+TLD (Top Level Domain):
+     Amazon.in (India)
+     Amazon.com (Commercial)
+     Amazon.edu (Education)
+     Amazon.org (Organisation)
+     Amazon.uk (United Kingdom)
+
+Offline Editors
+    >> Notepad
+    >> Notepad ++
+    >> Sublime
+    >> Open Brackets
+    >> Vs Code
+
+Online Editors
+    >> Code Space
+    >> codeSandBox
+    
+
+
